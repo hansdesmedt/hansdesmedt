@@ -2,7 +2,7 @@
 
 📍 **Antwerp, Belgium** | 🛠 **Developer tools & design systems** | 📱 **Mobile & Web**
 
-[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev) [![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com) [![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev) [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev) [![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev) [![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com) [![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai)
 
 > Building tools that improve the way developers and designers work together — with a focus on great DX and clean design systems.
 
@@ -30,15 +30,9 @@
 
 ---
 
-## GitHub Activity
-
-[![GitHub Contribution Graph](https://ghchart.rshah.org/hansdesmedt)](https://github.com/hansdesmedt)
-
----
-
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Hans%20De%20Smedt-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hansdesmedt) [![Website](https://img.shields.io/badge/-hansdesmedt.be-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.hansdesmedt.be) [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hansdesmedt)
+[![LinkedIn](https://img.shields.io/badge/-Hans%20De%20Smedt-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hdesmedt/) [![Instagram](https://img.shields.io/badge/-hansdesmdt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hansdesmdt/) [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hansdesmedt)
 
 ---
 
