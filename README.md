@@ -18,15 +18,15 @@
 ## 📱 Mobile
 
 - 🚀 **[react-native-template](https://github.com/hansdesmedt/react-native-template)** — Opinionated React Native / Expo starter with PNPM, TypeScript, Shopify Restyle, and local packages
-- 🎞 **[Animations](https://github.com/hansdesmedt/Animations)** — React Native animation scenes with custom hooks and a theme system
+- 🎞 **[animations](https://github.com/hansdesmedt/animations)** — React Native animation scenes with custom hooks and a theme system
 
 ---
 
 ## 🌐 Web
 
-- 🥁 **[midi-volca-drum](https://github.com/hansdesmedt/midi-volca-drum)** — Browser-based patch editor for the Korg Volca Drum — real-time MIDI control via Web MIDI API
-- 🗺 **[GPT_find_expo_in_europe](https://github.com/hansdesmedt/GPT_find_expo_in_europe)** — Interactive map for discovering art exhibitions in Belgium and the Netherlands, powered by GPT
-- 💌 **[GPT_open_chat_LoveLetter_pastel_color](https://github.com/hansdesmedt/GPT_open_chat_LoveLetter_pastel_color)** — Renders shared ChatGPT conversations as styled pastel layouts
+- 🥁 **[midi-volca-drum](https://github.com/hansdesmedt/midi-volca-drum)** — Browser-based patch editor for the Korg Volca Drum — real-time MIDI control via Web MIDI API · [Live](https://volca-drum.up.railway.app)
+- 🗺 **[find-expos-in-europe](https://github.com/hansdesmedt/find-expos-in-europe)** — Interactive map for discovering art exhibitions in Belgium and the Netherlands, powered by GPT · [Live](https://exposineurope.up.railway.app)
+- 💌 **[open-loveletter](https://github.com/hansdesmedt/open-loveletter)** — Renders shared ChatGPT conversations as styled pastel layouts · [Live](https://open-loveletter.up.railway.app)
 
 ---
 
